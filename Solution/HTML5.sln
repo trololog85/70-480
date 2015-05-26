@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20857950-A908-4534-A430-70361098BEC7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Videos\AchitectureInPracticeM01_high.mp4 = ..\..\Videos\AchitectureInPracticeM01_high.mp4
+		back.png = back.png
+		button_blue_pause.png = button_blue_pause.png
+		button_blue_play.png = button_blue_play.png
+		Canvas_Example.html = Canvas_Example.html
+		CSS_Example_Positioning.html = CSS_Example_Positioning.html
+		dna.jpg = dna.jpg
+		Example_Video.html = Example_Video.html
+		orange.jpg = orange.jpg
+		right.png = right.png
+		Sound_Example.html = Sound_Example.html
+		SVG_Example.html = SVG_Example.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_1", "Objective_1", "{4E2354AA-6057-466C-96D9-6BE95057048F}"
+	ProjectSection(SolutionItems) = preProject
+		basic.css = basic.css
+		Basic_Structure.html = Basic_Structure.html
+		Complete_Example.html = Complete_Example.html
+		Figure_Example.html = Figure_Example.html
+		Semantic_Meaning.html = Semantic_Meaning.html
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{1BEC9CE3-7A31-48E4-8319-522165872CCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{0ED862C4-0A7D-4093-A579-ABB6C50D8568}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_1", "Objective_1", "{12D2B6DA-1B4B-4CB4-9FED-61F28751640B}"
+	ProjectSection(SolutionItems) = preProject
+		basic.css = basic.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E2354AA-6057-466C-96D9-6BE95057048F} = {0ED862C4-0A7D-4093-A579-ABB6C50D8568}
+		{1BEC9CE3-7A31-48E4-8319-522165872CCF} = {20857950-A908-4534-A430-70361098BEC7}
+		{0ED862C4-0A7D-4093-A579-ABB6C50D8568} = {20857950-A908-4534-A430-70361098BEC7}
+		{12D2B6DA-1B4B-4CB4-9FED-61F28751640B} = {1BEC9CE3-7A31-48E4-8319-522165872CCF}
+	EndGlobalSection
+EndGlobal
