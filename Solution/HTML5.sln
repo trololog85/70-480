@@ -25,6 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_1", "Objective_1"
 		Basic_Structure.html = Basic_Structure.html
 		Complete_Example.html = Complete_Example.html
 		Figure_Example.html = Figure_Example.html
+		ProgressBar.html = ProgressBar.html
 		Semantic_Meaning.html = Semantic_Meaning.html
 		style.css = style.css
 	EndProjectSection
