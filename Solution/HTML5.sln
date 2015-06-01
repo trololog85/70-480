@@ -10,9 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		button_blue_pause.png = button_blue_pause.png
 		button_blue_play.png = button_blue_play.png
 		Canvas_Example.html = Canvas_Example.html
+		chrome.png = chrome.png
 		CSS_Example_Positioning.html = CSS_Example_Positioning.html
 		dna.jpg = dna.jpg
 		Example_Video.html = Example_Video.html
+		firefox.png = firefox.png
+		IE.png = IE.png
 		orange.jpg = orange.jpg
 		right.png = right.png
 		Sound_Example.html = Sound_Example.html
@@ -21,11 +24,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_1", "Objective_1", "{4E2354AA-6057-466C-96D9-6BE95057048F}"
 	ProjectSection(SolutionItems) = preProject
+		Apply_Styles.html = Apply_Styles.html
+		article_tag.html = article_tag.html
+		aside_tag.html = aside_tag.html
 		basic.css = basic.css
 		Basic_Structure.html = Basic_Structure.html
 		Complete_Example.html = Complete_Example.html
+		figcaption_tag.html = figcaption_tag.html
 		Figure_Example.html = Figure_Example.html
+		figure_tag.html = figure_tag.html
+		footer_tag.html = footer_tag.html
+		header_tag.html = header_tag.html
+		HTML5_API.html = HTML5_API.html
+		mark_tag.html = mark_tag.html
+		nav_tag.html = nav_tag.html
+		Object_Methods.html = Object_Methods.html
+		progress_tag.html = progress_tag.html
 		ProgressBar.html = ProgressBar.html
+		Scope_Variables.html = Scope_Variables.html
+		section_tag.html = section_tag.html
 		Semantic_Meaning.html = Semantic_Meaning.html
 		style.css = style.css
 	EndProjectSection
@@ -33,10 +50,18 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{1BEC9CE3-7A31-48E4-8319-522165872CCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{0ED862C4-0A7D-4093-A579-ABB6C50D8568}"
+	ProjectSection(SolutionItems) = preProject
+		HomePage.html = HomePage.html
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_1", "Objective_1", "{12D2B6DA-1B4B-4CB4-9FED-61F28751640B}"
 	ProjectSection(SolutionItems) = preProject
 		basic.css = basic.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_2", "Objective_2", "{9F43AA66-C070-417F-B88E-18D1FEFC013A}"
+	ProjectSection(SolutionItems) = preProject
+		Code_Interaction_UI.html = Code_Interaction_UI.html
 	EndProjectSection
 EndProject
 Global
@@ -48,5 +73,6 @@ Global
 		{1BEC9CE3-7A31-48E4-8319-522165872CCF} = {20857950-A908-4534-A430-70361098BEC7}
 		{0ED862C4-0A7D-4093-A579-ABB6C50D8568} = {20857950-A908-4534-A430-70361098BEC7}
 		{12D2B6DA-1B4B-4CB4-9FED-61F28751640B} = {1BEC9CE3-7A31-48E4-8319-522165872CCF}
+		{9F43AA66-C070-417F-B88E-18D1FEFC013A} = {0ED862C4-0A7D-4093-A579-ABB6C50D8568}
 	EndGlobalSection
 EndGlobal
