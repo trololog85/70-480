@@ -62,6 +62,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_2", "Objective_2", "{9F43AA66-C070-417F-B88E-18D1FEFC013A}"
 	ProjectSection(SolutionItems) = preProject
 		Code_Interaction_UI.html = Code_Interaction_UI.html
+		getElementByClassName.html = getElementByClassName.html
+		getElementById.html = getElementById.html
+		getElementsByTagName.html = getElementsByTagName.html
+		Manipulate_HTML.html = Manipulate_HTML.html
+		querySelector.html = querySelector.html
+		querySelectorAll.html = querySelectorAll.html
 	EndProjectSection
 EndProject
 Global
